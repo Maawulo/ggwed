@@ -55,7 +55,7 @@ h1 {
 }
 
 .cover {
-    background: url('../assets/wedding-landing-cover.jpg') no-repeat 70% center/cover;
+    background: url('../assets/ggwedmain.jpg') no-repeat 70%   top/cover;
     height: 100vh;
     display: table;
     text-align: center;
@@ -65,7 +65,7 @@ h1 {
 @media (min-width: 768px) {
 
     .cover {
-        background: url('../assets/wedding-landing-cover.jpg') no-repeat center/cover;
+        background: url('../assets/ggwedmain.jpg') no-repeat top/cover;
     }
 
 }
